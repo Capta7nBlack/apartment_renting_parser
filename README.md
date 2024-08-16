@@ -5,6 +5,8 @@ A collaborative project for recognizing implicit house renting requests
 2. Parser - Telethon (coded by `Bogdan Yakupov` + `Sayat Mushkin`)
 3. Backend - Scikit-learn + HuggingFace Tokenizer (coded by `Bogdan Yakupov`)
 
+Copied from "https://github.com/venturestranger/apartment_renting_parser"
+
 # API Backend
 
 ## Introduction
